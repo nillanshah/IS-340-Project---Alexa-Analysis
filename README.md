@@ -1,4 +1,4 @@
-# IS-340-Project---Alexa-Analysis
+# IS-340-Project Alexa-Analysis
 
 
 Simple analysis of the provided dataset.
